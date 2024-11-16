@@ -2,17 +2,14 @@
     width: 800px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin: 0 auto;
+    margin: 0px auto;
     background-color:  #dcc9f4;
 }
 div {
     text-align: center;
   }
-
 .top-child{
-    display: inline;
+    display: inline-block;
     width: 20%;
     background-color: #ffd9df;
 }
@@ -21,11 +18,7 @@ div {
     position: relative;
     width: 800px;
     height: 800px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: #ffd9df;
 }
 
@@ -57,7 +50,7 @@ div {
 #bottom{
     width: 800px;
     height: 300px;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: #87ceeb;
 }
 #bottom-child01{
